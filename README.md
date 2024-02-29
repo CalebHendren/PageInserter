@@ -2,7 +2,7 @@ About:
 
 This program simply adds a new page to the backs of scanforms for written and essay questions. It is primarily made with ZipGrade in mind. Other services, such as Akindi, are untested, but it should work.
 
-Adding multiple pages is untested. Do so AT YOUR OWN RISK!!!
+If you attempt to add a PDF with multiple pages, only the first page will be added.
 
 Installation:
 
