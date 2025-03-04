@@ -8,7 +8,7 @@ Installation:
 
 Download the .exe here and save it to your desktop:
 
-https://github.com/CalebHendren/AppendAnswerSheet/blob/master/dist/ZipGradeWritten.exe
+[https://github.com/CalebHendren/AppendAnswerSheet/blob/master/dist/ZipGradeWritten.exe](https://github.com/CalebHendren/PageInserter/tree/master/dist)
 
 Usage:
 
